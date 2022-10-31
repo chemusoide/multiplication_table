@@ -1,6 +1,6 @@
 # Create multiplication table
 
-##📄 Description:
+## 📄 Description:
 Enter a number, and the programe create a multiplication table for that number:	use std::io;
 
 ### Use this library to obtain string from keyboard
